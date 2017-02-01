@@ -1,3 +1,9 @@
 name: Anıl Göktaş
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  syntax_highlighter: rouge
