@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Removing Title of Back Button on Navigation Bar
+date: 2015-06-12
 ---
 
 Tried lots of code, and ...
