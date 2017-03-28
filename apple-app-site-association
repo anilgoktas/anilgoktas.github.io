@@ -1,0 +1,16 @@
+{
+    "activitycontinuation": {
+        "apps": [
+          "7CWJ7KK9KZ.com.anilgoktas.Tiyatro-Takip"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7CWJ7KK9KZ.com.anilgoktas.Tiyatro-Takip",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
